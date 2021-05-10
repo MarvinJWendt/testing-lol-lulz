@@ -12,7 +12,7 @@ var rootCmd = &cobra.Command{
 	Use:     "cli-template",
 	Short:   "A brief description of your application",
 	Long:    `A longer description that spans multiple lines and likely contains\nexamples and usage of using your application.`,
-	Version: "v0.0.2", // <---VERSION---> This comment enables auto-releases on version change!
+	Version: "v0.0.3", // <---VERSION---> This comment enables auto-releases on version change!
 	// Uncomment the following line if your bare application
 	// has an action associated with it:
 	//	Run: func(cmd *cobra.Command, args []string) { },
