@@ -12,4 +12,4 @@ jobs:
       - name: Update Version
         uses: pterm/tag-action@master
         env:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
