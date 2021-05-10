@@ -1,4 +1,4 @@
-module github.com/pterm/cli-template
+module github.com/MarvinJWendt/testing-lol-lulz
 
 go 1.16
 
